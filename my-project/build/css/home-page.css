@@ -1,0 +1,13 @@
+body {
+  background-color: aquamarine;
+}
+
+.header {
+  background-color: rgb(39, 113, 252);
+}
+.header p {
+  color: green;
+}
+.header img {
+  width: 100%;
+}
